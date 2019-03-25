@@ -1,5 +1,7 @@
 # SearchEvent_Web_mobile
  Users can search recent activity near certain area on both mobile and pc
+ An application that uses Angular, Bootstrap 4, Angular CLI, and Node.js to create a Serverless reactive-formed application.
+ 
  ![Image of event search angular](https://github.com/hjwang95/GithubData/blob/master/SearchEvent_Web_mobile/1.png)
  ![Image of event search angular](https://github.com/hjwang95/GithubData/blob/master/SearchEvent_Web_mobile/2.png)
  ![Image of event search angular](https://github.com/hjwang95/GithubData/blob/master/SearchEvent_Web_mobile/3.png)
